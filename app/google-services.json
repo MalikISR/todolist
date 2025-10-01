@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028756279459",
+    "project_id": "todolist-malikisr",
+    "storage_bucket": "todolist-malikisr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028756279459:android:8762e94c071243f5306f16",
+        "android_client_info": {
+          "package_name": "com.malikisr.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028756279459-v6rvb6ls5eqe8lvkuovupd54gvu4ap8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malikisr.todolist",
+            "certificate_hash": "db6efbf3e84893f821957d0b26392b8ec9872e73"
+          }
+        },
+        {
+          "client_id": "1028756279459-iual81lvmverh66b3ic523cb36sktbkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgL-OoQ8a3gydc0OJ-8SdqtvuFxOQNk8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028756279459-iual81lvmverh66b3ic523cb36sktbkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
